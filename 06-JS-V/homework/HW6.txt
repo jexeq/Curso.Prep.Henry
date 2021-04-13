@@ -1,0 +1,14 @@
+PROTOTYPE
+
+prototype es la forma o molde con la que se crean/agregan las funciones que vaya a contener un objeto creado a partir de un constructor
+si un objeto era una caja que tenia ordenadas propiedades dentro con valores terminados, cuando creamos
+un objeto a partir de un constructor, prototype nos sirve para incluir metodos(funciones, bloques de codigo) dentro
+de las propiedades del objeto que hemos creado (sin que esos metodos esten explicitamente contenidos dentro de la funcion constructora)
+
+Constructors de clase
+
+son funciones (bloque de codigo) que nos sirven para crear objetos que contengan las mismas propiedades en comun
+
+si un objeto es una caja donde guardamos informacion, cuando usamos un constructor, todas las cajas que creamos con esten
+van a tener las mismas propiedades. Así tambien, al usar prototype sobre ese constructor, todas las cajasvan a tener el mismo metodo que incluimos en el prototype.
+
