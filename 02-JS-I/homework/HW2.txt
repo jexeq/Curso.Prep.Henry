@@ -1,0 +1,17 @@
+
+Variables:
+ son como cajas donde se puede guardar informacion que luego vamos a usar
+
+strings:
+ son cadenas de letras o caracteres, por ejemplo una palabra cualquiera como "arbol", "automovil", "=)", "el curso está muy bueno"
+
+funciones:
+ es un bloque de codigo de programacion que sirve para realizar una tarea específica. Por ejemplo, sumar numeros, hacer listas, etc.
+
+declaracion if:
+ es una función nativa que en JavaScript y algunos otros lenguajes se utiliza para analizar y comparar datos que teniamos guardados y a posterior realizar una tarea
+ si se cumple o no la condicion que le ingresamos. por ejemplo, si ingresamos una cierta cantidad de numeros y queremos saber si esos numeros son multiplos de otro numero primario
+
+valores booleanos:
+ son tipos de datos que pueden tomar solo los valores true (verdadero) o false (falso) y que se utilizaran para realizar operaciones despues
+    

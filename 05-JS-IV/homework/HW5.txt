@@ -1,0 +1,37 @@
+OBJECTS y propiedades
+
+los Objects tambien son como cajitas donde guardamos informacion (similar a los array)
+si en un array podiamos guardar por ejemplo, distintas cantidades de tapitas en cada uno de sus espacios
+ (que se llama indice), en un object podremos guardar las tapitas y aclarar si son de metal, o de plastico y ademas indicar
+ de qué color son (a esto le llamamos PROPIEDADES). las propiedades pueden contener distintos tipos de datos
+ (numeros, strings, booleanos, arrays, otros objects e incluso funciones)
+
+METODOS
+
+Los métodos son las funciones que guardamos dentro de los objects como una propiedad. podemos usar las
+funciones guardadas llamandolas con el nombre del object, un punto ( . ) y el nombre de la propiedad quec
+contiene a la funcion seguido de parentesis (). por ejemplo "objectRandom.propiedadConFuncion()". de esta manera
+utilizaremos el bloque de codigo que esta guardado como método dentro del object.
+
+BUCLE FOR in
+
+Es un bloque de codigo que se repite realizando una accion dentro de un object. se utiliza esta repiticion
+y no el BUCLE FOR comun ya que los Objects no tienen Indice (como si lo tienen los array)
+
+NOTACION DE PUNTOS VS NOTACION DE CORCHETES
+
+si tenemos un object cualquiera
+
+ObjectRandom = [
+    numero: 1,
+    color: 'blanco'
+]
+
+podemos acceder a los valores de las propiedades "numero" y "color" de dos formas
+
+una sería usando un punto:  ObjectRandom.numero y ObjectRandom.color
+
+la segunda opcion es usando corchetes: ObjectRandom['numero'] y ObjectRandom['color']
+
+en general, la notacion con corchetes se usan con variables (que apuntan a una cadena dentro del object o un numero)
+

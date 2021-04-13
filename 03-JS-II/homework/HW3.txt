@@ -1,0 +1,21 @@
+FOR
+
+ es una operacion que se repite hasta obtener un resultado deseado, siempre y cuando cumpla las condiciones que se le establecen.
+
+&&
+
+ Es un operador que se usa para obtener un resultado true o false por medio de las comparaciones. 
+ El && es true siempre y cuando se cumplan todas las condiciones que establecemos.
+ El && es False cuando una o todas las condiciones No se cumplen.
+
+|| 
+
+ Es un operador que se usa para obtener un resultado true o false por medio de las comparaciones. 
+ El || es true cuando al menos una de  las condiciones que establecemos se cumplen.
+ El || es False cuando ninguna de las condiciones se cumplen.
+
+!
+
+ es un operador que se usa para invertir el resultado que obtenemos al realizar operaciones (sean lógicas o matematicas)
+ si el resultado de la comparacion es verdadero, al usar el operador !, el resultado final será false. ocurre de igual modo si el resultado es
+falso, al usar ! el resultado final será true. dicho de otro modo, sirve para invertir el valor o negarlo.

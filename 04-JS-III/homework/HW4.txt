@@ -1,0 +1,4 @@
+ARRAY
+
+ Si una variable era una caja donde podiamos almacenar datos, un array es una caja que tiene dentro otras cajas mas pequeñas donde tambien podemos almacenar datos
+lo bueno de los array es que tienen numeradas las cajas que tienen en su interior 
