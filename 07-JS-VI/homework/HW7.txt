@@ -1,0 +1,24 @@
+
+FUNCIONES CALLBACK
+
+ Dijimos que una funcion es un bloque de codigo de programacion que realiza una tarea dada. Hacer Callback en una funcion es pedir
+que se realice dentro de una funcion dada, otra funcion que realiza una tarea.
+
+ digamos que una funcion dada multiplica el numero recibido por 5
+
+ Function multi (n)= {
+
+ return n*5;
+
+}
+
+ por otro lado, tenemos una funcion que llama a la funcion multi y ademas imprime un mensaje
+
+ function mostrar (n, multi) = {
+
+     return 'el resultado es: ' + multi(n);
+
+ }
+
+de esta manera no tenemos que volver a escribir dentro de la funcion "mostrar" las operaciones que ya realiza "multi" haciendo
+callback de multi en mostrar.
