@@ -1,0 +1,18 @@
+
+#thirdDiv { 
+    margin-top: 50px;   
+    margin-left: auto;
+    margin-right: auto;  
+    width: 500px; 
+    height: 600px;
+    background-color: palegoldenrod ;
+    padding: 50px;
+   
+    border: black 10px solid;
+    
+           } 
+
+#spanId { font-size: 18px;
+       color:antiquewhite;
+       margin: 50px;}
+
